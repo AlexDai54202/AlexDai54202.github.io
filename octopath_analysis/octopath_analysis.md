@@ -1,3 +1,6 @@
+# Octopath Traveler: Champions of the Continent Weakness Analysis
+Author: Alex Dai
+
 # Motivation
 
 Octopath: Champions of the Continent (henceforth referred to as CotC) is a single player gatcha game where you control 8 characters of your choosing to fight tyrants, beasts, and arena champions. Basically, you are meant to save the world. Unfortunately (or fortunately depending on who you are), this game is challenging. A majority of the players struggle to clear content, primarily due to the method of balance enforced by Square Enix.
@@ -18,7 +21,7 @@ Fortunately for me, I will not be manually entering thousands of enemies worth o
 
 Thankfully, a data miner by the name of BoltGSR was gracious enough to share their mined data to meowDB, a strategy website for video games. After asking for the spreadsheet from the owner of meowDB and BoltGSR, I have the sheet to all CotC enemies and their relevant data.
 
-https://docs.google.com/spreadsheets/d/1NBLiaWwPrqtbD53-lIOZrqjI9xK9p0SQNzJKj2GrvsM/edit#gid=264844635
+[Spreadsheet can be found here](https://docs.google.com/spreadsheets/d/1NBLiaWwPrqtbD53-lIOZrqjI9xK9p0SQNzJKj2GrvsM/edit#gid=264844635)
 
 
 ```python

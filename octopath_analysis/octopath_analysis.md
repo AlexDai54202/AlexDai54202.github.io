@@ -11,7 +11,7 @@ This means, if you are using characters that target the enemy's weaknesses, you 
 
 Lastly, each and every difficult enemy in this game has a "low-health" phase, which begins when their HP is lower than a certain threshold. Once they reach this phase, their attacks will be significantly more lethal, and is the run-ender for most lost fights. This means, without the ability to quickly close off a fight, you are putting yourself at risk, which makes large amounts of damage all the more necessary.
 
-With that in mind, I will be doing analysis on enemy weaknesses, with a particular focus on finding the optimal weapon for a character to carry.
+With that in mind, I will be doing analysis on enemy weaknesses, with a particular focus on predicting enemy weaknesses given the traits they present.
 
 With that said, I will be starting with
 
